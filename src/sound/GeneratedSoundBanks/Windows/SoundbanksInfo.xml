@@ -786,6 +786,14 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
+				<Event Id="1070117732" Name="GPWS_TEST" ObjectPath="\Events\AIRCRAFTS\AIRCRAFT_WWISEDATA\AIRCRAFT_PLAYER\Asobo_A320_NEO_Improved\GPWS_TEST" GUID="{FCAF9BD1-3F13-4779-BD27-5C7D4BAE4AC9}" MaxAttenuation="36.000000" DurationType="OneShot" DurationMin="2.001950" DurationMax="5.001950">
+					<IncludedMemoryFiles>
+						<File Id="1070117732" Language="SFX">
+							<ShortName>GPWS_TEST.wav</ShortName>
+							<Path>SFX\GPWS_TEST.wav</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
 				<Event Id="2822123028" Name="Play_Asobo_A320_NEO_Loudrelay" ObjectPath="\Events\AIRCRAFTS\AIRCRAFT_WWISEDATA\AIRCRAFT_PLAYER\Asobo_A320_NEO_Improved\Play_Asobo_A320_NEO_Loudrelay" GUID="{2CFF959F-2372-4585-B8EB-299BB4AE0CB3}" MaxAttenuation="5.000000" DurationType="OneShot" DurationMin="0.738957" DurationMax="0.895624">
 					<IncludedMemoryFiles>
 						<File Id="729801145" Language="SFX">
